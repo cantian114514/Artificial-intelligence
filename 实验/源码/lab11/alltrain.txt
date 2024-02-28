@@ -1,0 +1,902 @@
+D:/code/python/file/lab11/data/train/baihe/b (1).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (100).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (101).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (102).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (103).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (105).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (106).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (107).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (108).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (109).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (11).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (110).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (111).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (112).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (113).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (114).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (115).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (116).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (117).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (118).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (119).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (12).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (120).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (122).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (123).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (124).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (125).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (126).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (127).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (128).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (129).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (13).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (130).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (131).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (132).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (133).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (134).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (135).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (136).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (137).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (138).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (139).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (14).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (141).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (142).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (143).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (144).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (145).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (146).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (147).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (148).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (15).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (150).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (151).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (152).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (153).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (154).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (155).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (156).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (157).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (158).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (159).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (16).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (160).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (162).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (163).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (165).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (167).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (168).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (17).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (170).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (171).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (172).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (174).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (175).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (176).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (177).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (178).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (179).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (18).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (180).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (181).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (183).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (184).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (185).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (186).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (187).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (188).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (189).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (19).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (190).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (191).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (192).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (194).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (195).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (196).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (197).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (199).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (2).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (20).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (200).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (21).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (22).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (23).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (25).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (26).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (27).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (28).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (29).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (3).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (30).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (31).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (32).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (33).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (34).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (36).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (37).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (38).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (39).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (4).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (40).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (41).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (42).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (43).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (44).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (45).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (46).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (47).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (49).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (5).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (50).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (51).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (52).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (54).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (55).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (56).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (57).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (58).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (59).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (6).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (62).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (63).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (64).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (65).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (66).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (67).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (68).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (69).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (7).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (70).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (71).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (72).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (73).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (74).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (75).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (76).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (77).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (78).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (79).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (8).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (80).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (81).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (82).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (83).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (84).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (85).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (86).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (87).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (88).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (89).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (9).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (90).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (91).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (92).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (93).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (94).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (95).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (96).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (98).jpg!0
+D:/code/python/file/lab11/data/train/baihe/b (99).jpg!0
+D:/code/python/file/lab11/data/train/dangshen/dangshen_1.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_10.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_100.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_101.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_102.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_103.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_104.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_105.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_106.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_107.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_108.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_11.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_110.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_111.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_112.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_113.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_114.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_115.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_116.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_117.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_118.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_119.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_12.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_120.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_121.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_122.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_123.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_124.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_125.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_126.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_127.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_128.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_129.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_130.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_131.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_132.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_133.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_135.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_136.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_137.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_139.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_14.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_140.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_142.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_143.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_144.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_145.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_146.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_147.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_148.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_149.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_15.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_151.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_152.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_153.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_154.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_155.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_156.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_157.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_159.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_16.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_160.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_161.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_162.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_164.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_165.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_166.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_167.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_168.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_169.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_17.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_170.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_172.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_173.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_174.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_175.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_176.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_177.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_178.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_179.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_18.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_180.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_182.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_183.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_184.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_185.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_186.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_187.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_188.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_190.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_191.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_192.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_193.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_194.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_195.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_196.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_197.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_198.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_2.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_20.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_200.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_201.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_202.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_203.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_204.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_205.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_206.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_207.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_208.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_209.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_21.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_210.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_211.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_214.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_215.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_216.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_217.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_218.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_219.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_220.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_23.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_30.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_31.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_32.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_33.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_34.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_35.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_36.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_37.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_38.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_4.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_41.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_42.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_43.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_44.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_46.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_47.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_48.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_5.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_50.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_51.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_52.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_53.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_54.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_55.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_56.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_57.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_58.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_59.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_6.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_60.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_61.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_62.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_63.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_65.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_66.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_67.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_68.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_69.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_7.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_70.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_71.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_72.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_74.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_75.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_76.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_77.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_78.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_79.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_8.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_80.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_81.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_82.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_83.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_84.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_85.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_86.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_87.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_88.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_89.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_9.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_90.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_91.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_92.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_93.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_95.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_96.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_97.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_98.jpg!1
+D:/code/python/file/lab11/data/train/dangshen/dangshen_99.jpg!1
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (1).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (10).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (100).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (101).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (102).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (103).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (104).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (105).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (106).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (107).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (108).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (109).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (11).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (110).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (111).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (112).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (113).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (114).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (115).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (116).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (117).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (118).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (119).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (12).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (120).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (121).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (122).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (123).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (124).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (125).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (126).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (127).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (128).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (129).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (13).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (130).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (131).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (132).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (133).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (134).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (135).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (136).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (137).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (138).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (139).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (14).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (140).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (141).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (142).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (143).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (144).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (145).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (146).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (147).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (148).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (149).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (15).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (150).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (151).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (152).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (153).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (154).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (155).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (156).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (157).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (158).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (159).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (16).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (160).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (161).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (162).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (163).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (164).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (165).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (166).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (167).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (168).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (169).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (17).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (170).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (171).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (172).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (173).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (174).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (175).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (176).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (177).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (178).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (179).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (18).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (180).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (181).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (182).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (183).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (184).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (185).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (19).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (2).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (20).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (21).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (22).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (23).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (24).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (25).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (26).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (27).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (28).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (29).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (3).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (30).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (31).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (32).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (33).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (34).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (35).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (36).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (37).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (38).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (39).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (4).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (40).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (41).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (42).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (43).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (44).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (45).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (46).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (47).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (48).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (49).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (5).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (50).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (51).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (52).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (53).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (54).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (55).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (56).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (57).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (58).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (59).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (6).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (60).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (61).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (62).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (63).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (64).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (65).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (66).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (67).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (68).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (69).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (7).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (70).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (71).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (72).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (73).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (74).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (75).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (76).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (77).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (78).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (79).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (8).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (80).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (81).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (82).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (83).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (84).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (85).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (86).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (87).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (88).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (89).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (9).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (90).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (91).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (92).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (93).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (94).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (95).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (96).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (97).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (98).jpg!2
+D:/code/python/file/lab11/data/train/gouqi/cgcjyfyj (99).jpg!2
+D:/code/python/file/lab11/data/train/huaihua/huaihua_1.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_10.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_100.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_101.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_102.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_103.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_104.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_105.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_106.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_107.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_108.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_109.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_11.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_110.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_111.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_112.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_113.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_114.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_115.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_116.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_117.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_118.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_119.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_12.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_120.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_121.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_122.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_123.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_124.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_125.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_126.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_127.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_128.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_129.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_13.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_130.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_131.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_132.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_133.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_134.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_135.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_136.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_137.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_138.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_139.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_14.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_140.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_141.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_142.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_143.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_144.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_145.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_146.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_147.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_148.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_149.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_15.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_150.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_151.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_152.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_153.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_154.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_155.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_156.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_157.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_158.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_159.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_16.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_160.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_161.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_162.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_163.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_164.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_165.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_166.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_167.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_168.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_169.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_17.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_170.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_171.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_172.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_173.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_174.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_175.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_176.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_177.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_178.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_179.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_18.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_19.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_2.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_20.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_21.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_22.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_24.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_28.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_3.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_37.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_38.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_39.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_4.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_40.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_41.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_42.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_43.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_44.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_45.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_46.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_47.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_48.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_49.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_5.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_50.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_51.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_52.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_53.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_54.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_55.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_56.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_57.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_58.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_59.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_6.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_60.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_61.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_62.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_63.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_64.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_65.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_66.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_67.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_68.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_69.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_7.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_70.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_71.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_72.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_73.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_74.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_75.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_76.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_77.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_78.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_79.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_8.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_80.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_81.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_82.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_83.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_84.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_85.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_86.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_87.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_88.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_89.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_9.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_90.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_91.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_92.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_93.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_94.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_95.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_96.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_97.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_98.jpg!3
+D:/code/python/file/lab11/data/train/huaihua/huaihua_99.jpg!3
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_1.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_10.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_100.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_101.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_102.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_103.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_104.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_105.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_106.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_107.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_108.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_109.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_11.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_110.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_111.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_112.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_113.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_114.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_115.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_116.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_117.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_118.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_119.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_12.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_120.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_121.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_122.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_123.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_124.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_125.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_126.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_127.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_128.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_129.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_13.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_130.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_131.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_132.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_133.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_134.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_135.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_136.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_137.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_138.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_139.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_14.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_140.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_141.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_142.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_143.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_144.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_145.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_146.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_147.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_148.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_149.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_15.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_150.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_151.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_152.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_153.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_154.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_155.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_156.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_157.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_158.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_159.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_16.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_160.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_161.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_162.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_163.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_164.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_165.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_166.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_167.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_168.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_169.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_17.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_170.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_171.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_172.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_173.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_174.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_175.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_176.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_177.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_178.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_179.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_18.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_180.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_19.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_2.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_20.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_21.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_22.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_23.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_24.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_25.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_26.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_27.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_28.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_29.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_3.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_30.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_31.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_32.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_33.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_34.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_35.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_36.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_37.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_38.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_39.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_4.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_40.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_41.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_42.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_43.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_44.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_45.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_46.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_47.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_48.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_49.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_5.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_50.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_51.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_52.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_53.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_54.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_55.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_56.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_57.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_58.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_59.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_6.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_60.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_61.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_62.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_63.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_64.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_65.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_66.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_67.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_68.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_69.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_7.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_70.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_71.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_72.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_73.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_74.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_75.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_76.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_77.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_78.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_79.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_8.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_80.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_81.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_82.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_83.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_84.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_85.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_86.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_87.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_88.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_89.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_9.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_90.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_91.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_92.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_93.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_94.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_95.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_96.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_97.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_98.jpg!4
+D:/code/python/file/lab11/data/train/jinyinhua/jyh_99.jpg!4

@@ -1,0 +1,255 @@
+document Id emotion words
+993 4 joy schuei see ferrari unveil new car
+994 6 surprise sarkozi letter surpris french cartoon hear
+995 6 surprise lawmak seek ipod ban in crosswalk in new york
+996 6 surprise year on but coupl still hug
+997 6 surprise defens to challeng russert s credibl
+998 4 joy ozzi a hero for the hard rock mass
+999 4 joy after iraq trip clinton propos war limit
+1000 5 sad dead in apart build fire
+1001 1 anger cisco sue appl over iphon name
+1002 4 joy inter milan set seri a win record
+1003 4 joy stomp the yard ha win move in it weekend debut
+1004 5 sad bernhard set to leav volkswagen
+1005 4 joy case when the simpl solut is the right on
+1006 1 anger sarkozi head for clash in cartoon row
+1007 6 surprise realli the claim the back seat of a car is the safest place to sit
+1008 5 sad brown not buri as estat issu loom
+1009 4 joy sunshin goydo win soni open
+1010 2 disgust teacher charg with sex assault
+1011 1 anger sharehold sue appl
+1012 3 fear deadli bird flu confirm in british turkei
+1013 4 joy visitor to eiffel tower climb to record in
+1014 6 surprise more sleep healthier slimmer children
+1015 5 sad walter on trump poor pathet man
+1016 3 fear ic storm smack road power
+1017 4 joy palestinian faction to resum talk
+1018 1 anger a mistrial for lieut watada
+1019 4 joy asean talk end on energi secur
+1020 1 anger bush adam on troop to iraq
+1021 4 joy beckham to l a for the game not fame
+1022 2 disgust investig of child porn site hit nation
+1023 6 surprise varieti johnni depp to make movi of spy poison
+1024 5 sad rio de janeiro journal draw line across the sand between class
+1025 6 surprise model health guidelin will thei help
+1026 5 sad test cricket jail over kill
+1027 6 surprise studio sign off on movi download
+1028 4 joy asif return with four wicket haul
+1029 3 fear somalia declar state of emerg
+1030 6 surprise male sweat can rais hormon
+1031 4 joy beckham posh and more athlet celebr coupl
+1032 5 sad libbi prosecutor await judg s rule
+1033 4 joy snow in the canadian rocki
+1034 4 joy canet win inaugur joburg open
+1035 3 fear gunmen abduct filipino woman in nigeria
+1036 4 joy nfl team s fan of the year flag ladi
+1037 4 joy township tourism boom in south africa
+1038 6 surprise jame brown s year old son left out of will
+1039 3 fear friendli fire pilot experienc
+1040 4 joy amazon com ha best ever sale
+1041 5 sad flood forc malaysia evacu
+1042 6 surprise on myspac girl seek friend boi flirt
+1043 4 joy europ take big royal trophi lead
+1044 4 joy england includ gile in wc squad
+1045 5 sad germani agon over a brain drain
+1046 4 joy fine wine in british columbia
+1047 3 fear bigger more aggress rat infest uk
+1048 4 joy real mallorca rock leader sevilla
+1049 5 sad ey on cosmo is lost to short circuit on hubbl
+1050 5 sad too young for thi face cancer under
+1051 4 joy finger cross for north korea
+1052 3 fear freed muslim terror suspect sai britain is polic state
+1053 4 joy crave still there sez tara
+1054 5 sad bill would strip convict legisl of pension
+1055 4 joy rice u s won t pull plug on iraq
+1056 5 sad a star di a famili feud is born
+1057 1 anger carter wa a disast said ford
+1058 4 joy mancuso spark u s celebr
+1059 5 sad late penalti cost roma the point
+1060 4 joy bookworm adventur wordsmith s joi
+1061 3 fear isra lebanes clash on border
+1062 3 fear idf shell lebanes armi posit across northern border
+1063 5 sad thailand miss year after take wrong bu
+1064 1 anger ballerina spark anti fascist row
+1065 4 joy review ps pricei but impress
+1066 4 joy north korea readi to discuss first step to nuclear resolut
+1067 3 fear uk worker on alert for letter bomb
+1068 6 surprise did nasa accident kill life on mar
+1069 3 fear us to prod nato alli for more troop to defeat taliban
+1070 4 joy microsoft support openid authent standard
+1071 5 sad attack video sadden friendli fire widow
+1072 3 fear u s and iraqi ar wrangl over war plan
+1073 5 sad sea search for miss microsoft scientist
+1074 3 fear blair terror battl will be long
+1075 6 surprise alli with democrat lieberman easili align with republican
+1076 3 fear botch hang in iraq speed sectarian
+1077 5 sad snow caus airport closur in britain
+1078 4 joy luxuri dig in south carolina s lowcountri
+1079 5 sad ic storm kill across nation
+1080 4 joy action intens boost vision
+1081 4 joy myspac welcom french friend
+1082 3 fear airlin uk airport runwai unsaf
+1083 3 fear the amount you have to pai for a bomb scare
+1084 5 sad weekli nielsen yvonn de carlo munster star dead
+1085 5 sad earthlink ceo di at ag
+1086 4 joy north korea readi to discuss nuke disarma
+1087 4 joy asia near pact on energi secur
+1088 4 joy beckham outlin reason for move
+1089 5 sad housew star marcia cross on bed rest
+1090 4 joy hama fatah leader pledg to meet until thei reach agreement
+1091 2 disgust offic had rapport with alleg abductor
+1092 6 surprise can t do thi anymor not jack
+1093 5 sad indonesian bird flu death hit
+1094 4 joy microsoft downplai vista speech recognit hack
+1095 4 joy gere cheer sex worker in aid fight
+1096 6 surprise studi male sweat caus femal hormon to rise
+1097 4 joy what the godfath of soul meant to me
+1098 1 anger mass venezuela opposit ralli
+1099 4 joy glamour and borat at golden globe
+1100 3 fear north africa fear as stage ground for terror
+1101 4 joy accord on north korea is announc
+1102 3 fear plan seen in iraqi attack on u s copter
+1103 6 surprise basic a mammal in winter with a furnac of her own
+1104 6 surprise book on scienc the problem in model natur with it unruli natur tendenc
+1105 4 joy a familiar and prescient voic brought to life
+1106 6 surprise free will now you have it now you don t
+1107 6 surprise archaeologist find sign of earli chimp tool us
+1108 4 joy moscow sai palestin isra contact kei to mideast peac
+1109 4 joy pakistan india peac talk plan despit bomb
+1110 3 fear russia warn us against missil base in east europ
+1111 5 sad top colombia offici resign
+1112 5 sad colombia fm resign after rel arrest for militia link
+1113 4 joy royal seek to reviv french bid
+1114 4 joy sarkozi comfort zone offer a royal opportun
+1115 3 fear fals alarm at canadian embassi in pari
+1116 6 surprise kim jong il ban japanes car in north korea
+1117 4 joy cathol archbishop outlin anglican merger hope
+1118 3 fear bomb sai muslim rebel won t negoti
+1119 4 joy for women aspirin a dai could keep stroke awai
+1120 4 joy stop cancer with a shot
+1121 5 sad bernard matthew to lai off up to worker
+1122 3 fear thousand line up to get late flu shot
+1123 4 joy health return as hot issu in race
+1124 3 fear pediatrician sai more cord blood is need now
+1125 6 surprise indonesia will not share flu sampl
+1126 3 fear health canada issu advic on can tuna
+1127 4 joy feed your brain new benefit found in chocol
+1128 5 sad enron boss get year sentenc
+1129 4 joy marathon winner releas from hospit
+1130 4 joy clinic everton show moy mean busi
+1131 4 joy london market a shop dine haven
+1132 4 joy jackass star marri childhood friend the secret peopl reveal
+1133 4 joy audio slide show a love stori last year
+1134 4 joy oxfam action need for chad
+1135 5 sad violenc continu at disput holi site
+1136 4 joy spacewalk set new u s record
+1137 6 surprise fortun india the superpow think again
+1138 1 anger women protest pakistan demolit
+1139 4 joy two korea to resum talk
+1140 5 sad judg preserv anna nicol s bodi
+1141 4 joy myspac sale surg
+1142 4 joy air franc klm profit rise
+1143 3 fear thousand ralli in lebanon
+1144 4 joy femal astronaut set record
+1145 5 sad the troubl end of the depart
+1146 4 joy vietnames bank plan ipo list
+1147 1 anger serbia reject unit nation s kosovo plan
+1148 6 surprise astronaut s arrest test nasa s mettl
+1149 6 surprise brith airwai baggag charg caus confus
+1150 3 fear u s at odd with cleric s aid
+1151 3 fear guinea plan offic close as countri declar emerg
+1152 4 joy the scienc of love and lust
+1153 5 sad j k rowl mark spot of potter s end
+1154 4 joy gronholm ahead as solberg crash
+1155 2 disgust sex tortur claim hit russia armi
+1156 6 surprise mega marsupi onc roam australia
+1157 6 surprise hpv vaccin stir heat debat in america
+1158 6 surprise court tv accus killer tell juri a love stori
+1159 3 fear antibiot ketek more danger than thought
+1160 6 surprise andromeda involv in galact collis
+1161 3 fear bernank economi healthi but
+1162 3 fear nuke detector to ring new york offici sai
+1163 6 surprise davydenko out as seed scatter
+1164 4 joy studi on the job nap might help heart
+1165 2 disgust teacher s porn convict spark tech debat
+1166 3 fear radic cleric al sadr in iran u s insist
+1167 5 sad south korea fire kill foreign
+1168 5 sad shark kill four peopl in dull year
+1169 2 disgust outdat babi food found on shelv
+1170 2 disgust tow truck driver accus of steal car
+1171 4 joy bush it s time for congress to back energi plan
+1172 4 joy uk soldier clear of iraq abus
+1173 6 surprise former teacher pose for playboi
+1174 4 joy allen and okur get all star call
+1175 3 fear bridg blast stop i traffic
+1176 4 joy beyonc in a bikini as si s swimsuit cover model
+1177 6 surprise love with all your brain
+1178 3 fear latest updat on world s top stori
+1179 6 surprise youtub yield surpris payback
+1180 6 surprise up to inch of snow in forecast
+1181 5 sad tourist spot resist graviti but not progress
+1182 6 surprise ba to charg for an extra bag
+1183 6 surprise see if your citi is on of the unit state top fittest or fattest
+1184 4 joy new cancer drug to save a thousand live a year
+1185 1 anger made in china irk some burberri shopper
+1186 6 surprise who is princ freder von anhalt
+1187 6 surprise latest food fad space potato
+1188 4 joy ethiopia readi for millennium all it own
+1189 1 anger roundup protest erupt despit state of sieg in guinea
+1190 5 sad dryer blame for fire kill cat dog
+1191 1 anger u s divert troop to fight taliban
+1192 4 joy escap to pragu without the summer hord
+1193 5 sad ex pastor get death sentenc
+1194 3 fear bomber kill shopper
+1195 4 joy happi birthdai ipod
+1196 4 joy madonna s new tot happi at home in london
+1197 4 joy runwai make good without make nice
+1198 4 joy we re a pretti kind bulli
+1199 6 surprise hurrican paul weaken to tropic storm
+1200 4 joy resolut approv for intern game
+1201 4 joy the sweet tune of an anniversari
+1202 1 anger diplomat acknowledg us arrog in iraq
+1203 4 joy perfect live lose their focu
+1204 5 sad death link to flu vaccin
+1205 5 sad th person di after receiv flu shot
+1206 3 fear polic and shopper target in grow iraq violenc
+1207 6 surprise iran s presid urg higher birth rate
+1208 5 sad routin mission turn into hunt for miss comrad
+1209 2 disgust abba condemn isra massacr in northern gaza strip
+1210 4 joy buc find a new kick in life
+1211 6 surprise googl to unveil elect mashup
+1212 5 sad russian ship sink in pacif
+1213 1 anger budapest calm after night of violent protest
+1214 2 disgust photograph kidnap condemn
+1215 4 joy three found aliv from miss russian ship report
+1216 4 joy the sweet tune of an anniversari
+1217 3 fear ottawa must redefin terror
+1218 5 sad top gener optimist on iraq
+1219 4 joy silli and substanti
+1220 4 joy tom cruis and kati holm set wed date
+1221 1 anger colleg tuition continu climb
+1222 3 fear war is close ethiopia tell somali rebel
+1223 3 fear isra bomblet plagu lebanon
+1224 1 anger new indonesia calam a mud bath is man made
+1225 2 disgust women face greatest threat of violenc at home studi find
+1226 3 fear a mix of oil and environment
+1227 3 fear u s warn north korean about nuclear test
+1228 5 sad global sludg end in tragedi for ivori coast
+1229 5 sad new indonesia calam a mud bath is man made
+1230 6 surprise cite spy agenc studi democrat seek iraq chang
+1231 4 joy cook defin sephard jew at sukkot
+1232 3 fear tropic storm isaac form in atlant
+1233 6 surprise squirrel jump boi in park rabi suspect
+1234 6 surprise ashton kutcher tell secret to ryan seacrest
+1235 6 surprise marijuana mai stave off alzheim s
+1236 3 fear die in hour kashmir standoff
+1237 5 sad probe under wai in yanke crash
+1238 5 sad warner will not run in
+1239 6 surprise reid land deal under scrutini
+1240 1 anger commentari minutemen have a right to be idiot
+1241 5 sad hastert sorri for scandal but not quit
+1242 6 surprise kentucki want to ban alcohol inhal
+1243 4 joy madonna file adopt paper in malawi
+1244 4 joy uk charact boost box offic
+1245 2 disgust griffith scorn withnail plai
+1246 5 sad amish kill school demolish

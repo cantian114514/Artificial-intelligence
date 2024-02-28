@@ -1,0 +1,10 @@
+D:/code/python/file/lab11/data/test/baihe01.jpg!0
+D:/code/python/file/lab11/data/test/baihe02.jpg!0
+D:/code/python/file/lab11/data/test/dangshen01.jpg!1
+D:/code/python/file/lab11/data/test/dangshen02.jpg!1
+D:/code/python/file/lab11/data/test/gouqi01.jpg!2
+D:/code/python/file/lab11/data/test/gouqi02.jpg!2
+D:/code/python/file/lab11/data/test/huaihua01.jpg!3
+D:/code/python/file/lab11/data/test/huaihua02.jpg!3
+D:/code/python/file/lab11/data/test/jinyinhua01.jpg!4
+D:/code/python/file/lab11/data/test/jinyinhua02.jpg!4
